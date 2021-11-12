@@ -3,6 +3,7 @@ name     = "Ranked Total Points"
 author   = "Zurite"
 category = "Matchmaking"
 
+siteid = 144
 version = "0.9"
 
 [script]
