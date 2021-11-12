@@ -1,0 +1,9 @@
+[meta]
+name     = "Ranked Total Points"
+author   = "Zurite"
+category = "Matchmaking"
+
+version = "0.9"
+
+[script]
+imports = [ "Icons.as" ]
